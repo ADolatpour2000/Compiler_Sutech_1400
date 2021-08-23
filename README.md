@@ -2,6 +2,10 @@
 **Compiler**
 
 This compiler is implemented by **JFLEX** and **CUP** which is implemented for Java language.Parser consists of all the rules of grammar in java. We use **LALR(1)** parser for this project.After running the program, two GUI form will be shown on your screen.
+
+![main_menu](https://user-images.githubusercontent.com/68737195/130426176-ca88c01e-4a92-4d20-b08f-ac760a6200e5.png)
+
+
 This GUI includes:
 
 **1-Token Table**
@@ -10,7 +14,7 @@ This GUI includes:
 
 **3-Steps of Parsing**
 
-![main_menu](https://user-images.githubusercontent.com/68737195/130426176-ca88c01e-4a92-4d20-b08f-ac760a6200e5.png)
+
 
 The second GUI will shown the **Parser Tree**:
 
