@@ -12,7 +12,7 @@ This GUI includes:
 
 ![main_menu](https://user-images.githubusercontent.com/68737195/130426176-ca88c01e-4a92-4d20-b08f-ac760a6200e5.png)
 
-The second GPU will shown the **Parser Tree**:
+The second GUI will shown the **Parser Tree**:
 
 
 ![AbstractSyntaxTree_LI](https://user-images.githubusercontent.com/68737195/130427462-2293d865-219f-4fb9-b3d0-8a57fa137c06.jpg)
