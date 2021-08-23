@@ -8,21 +8,23 @@ This compiler is implemented by **JFLEX** and **CUP** which is implemented for J
 
 This GUI includes:
 
-**1-Token Table**
+**1-The Stack content** 
 
-**2-The Stack content** 
+**2-Symbol Table**
 
 **3-Steps of Parsing**
 
 
 
-The second GUI will shown the **Parser Tree**:
+The second GUI will shown the **Abstract Syntax Tree**:
+
 
 
 ![AbstractSyntaxTree_LI](https://user-images.githubusercontent.com/68737195/130427462-2293d865-219f-4fb9-b3d0-8a57fa137c06.jpg)
 
 
 The test file(by the name of **test.txt**) is also added.
+
 
 
 If you have any quesions, please contact us:
